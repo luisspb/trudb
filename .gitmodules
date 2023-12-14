@@ -1,0 +1,3 @@
+[submodule "import/GOG-Galaxy-Export-Script"]
+	path = import/GOG-Galaxy-Export-Script
+	url = https://github.com/AB1908/GOG-Galaxy-Export-Script.git
