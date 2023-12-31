@@ -1,4 +1,3 @@
 # Ignored files
 
-gameDB.csv
-gameDB.txt
+result/*
