@@ -2,3 +2,4 @@
 
 natsort>=8.4.0
 pathlib>=1.0.1
+scrapy>=2.11.0
